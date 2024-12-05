@@ -109,11 +109,11 @@ src/
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Internal Privacy Policy of ICUnet Group.
 
 ## Support
 
-For support, please open an issue in the GitHub repository or contact our support team at support@icufinancial.com.
+For support, please open an issue in the GitHub repository or contact our support team at support@icunet.group.
 
 ## Acknowledgments
 
